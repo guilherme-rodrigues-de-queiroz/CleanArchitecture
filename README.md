@@ -34,7 +34,7 @@ The API provides a complete CRUD system for user management with validation, map
 
 The project follows **Clean Architecture** principles with clear separation of concerns:
 
-![](image/BackImage.png)
+<image src="https://github.com/guilherme-rodrigues-de-queiroz/CleanArchitecture/blob/master/Image/BackImage.png"></image>
 
 **Layers:**
 - **Presentation**: API Controllers and configuration
@@ -308,7 +308,7 @@ A API fornece um sistema CRUD completo para gerenciamento de usuários com valid
 
 O projeto segue os princípios da **Arquitetura Limpa** com clara separação de responsabilidades:
 
-![](image/BackImage.png)
+<image src="https://github.com/guilherme-rodrigues-de-queiroz/CleanArchitecture/blob/master/Image/BackImage.png"></image>
 
 **Camadas:**
 - **Apresentação**: Controllers da API e configurações
